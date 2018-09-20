@@ -2,8 +2,8 @@
 
 ## Breakfast
 
-Coffee and Two eggs for Rommel
-One apple or two eggs for Liza
+* Coffee and Two eggs for Rommel  
+* One apple or two eggs for Liza  
 
 ## Lunches
 
