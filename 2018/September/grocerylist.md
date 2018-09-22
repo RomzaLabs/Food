@@ -6,7 +6,7 @@
 - [ ] Lactose-free milk (3 half-gallon cartons) - Price ???
 
 - [ ] 10 cups brown rice (approx. 2kg, or ~20% of sack of rice) - Price ???
-- [ ] 30 grams salt (so 1 large container should be enough for months) - Price ???
+- [ ] 40 grams salt (so 1 large container should be enough for months) - Price ???
 - [ ] 15 limes - Price ???
 - [ ] 10 lbs lean ground turkey - Price ???
 - [ ] 849 grams of taco seasoning - Price ???
@@ -22,4 +22,15 @@
 - [ ] 10 8 ounce cans (~2.3L) tomato paste
 - [ ] 10 tsp. garlic powder (so 1 small container) - Price ???
 - [ ] 5 tsp onion powder (so 1 small container) - Price ???
- 
+
+- [ ] 30 tsp. olive oil (so ~1 large container) - Price ???
+- [ ] 10lbs chicken breast - Price ???
+- [ ] 10 Handfuls of cilantro, stems attached - Price ???
+- [ ] 10 yellow onions - Price ???
+- [ ] 60 cloves garlic - Price ???
+- [ ] 10 tbsp black peppercorns (so 1 small container) - Price ???
+- [ ] 10 tbsp Jalapeño sauce (so 1 small container) - Price ???
+- [ ] 20 cups cheddar and monterey jack cheese, shredded (~5kg, so 1 large bag) - Price ???
+- [ ] 100 6-inch corn tortillas - Price ???
+- [ ] 10 Handful of chives - Price ???
+- [ ] 1 tub of sour cream - Price ???
