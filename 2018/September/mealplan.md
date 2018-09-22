@@ -23,4 +23,10 @@ To assemble lunch bowls:
 
 ## Dinners
 
-TODO
+### Enchilada Sauce
+
+1. Over medium-low heat, heat the oil, flour and chili powder together in a large pot. Allow to cook for a minute or 
+two, stirring to form a paste and making sure that the flour doesn't burn. 
+2. Add the remaining ingredients and bring to a slow simmer. Stir well to combine and dissolve tomato paste in water.
+3. Allow to cook for at least 20 minutes, stirring occasionally. Taste, and add more spices as desired.
+
