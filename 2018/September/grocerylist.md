@@ -1,18 +1,18 @@
 # Groceries
 
 - [ ] Coffee (5lb bag) - Price ???
-- [ ] Eggs (96 eggs = 8 dozen) - Price ???
-- [ ] Apples (30 Apples) - Price ???
+- [x] Eggs (96 eggs = 8 dozen) - Price $16.00
+- [x] Apples (30 Apples) - Price ???
 - [ ] Lactose-free milk (3 half-gallon cartons) - Price ???
 
 - [ ] 10 cups brown rice (approx. 2kg, or ~20% of sack of rice) - Price ???
 - [ ] 40 grams salt (so 1 large container should be enough for months) - Price ???
-- [ ] 15 limes - Price ???
-- [ ] 10 lbs lean ground turkey - Price ???
-- [ ] 849 grams of taco seasoning - Price ???
-- [ ] 10 pints or ~3kg / 300 cherry tomatoes - Price ???
-- [ ] 10 Jalapeño peppers - Price ???
-- [ ] 2.5 cups red onion (approx. 2 large onions) - Price ???
+- [x] 15 limes - Price $3.00
+- [x] 10 lbs lean ground chicken - Price $12.30
+- [x] 849 grams of taco seasoning - Price ???
+- [x] 10 pints or ~3kg / 300 roma tomatoes - Price $6.00
+- [x] 10 Jalapeño peppers - Price $1.50
+- [x] 2.5 cups red onion (approx. 2 large onions) - Price $1.00
 
 - [ ] 20 tbsp vegetable oil (so ~ 0.3L, 1L container for around 3 months) - Price ???
 - [ ] 20 tbsp flour (so 1kg bag should last around 3 months) - Price ???
@@ -34,3 +34,4 @@
 - [ ] 100 6-inch corn tortillas - Price ???
 - [ ] 10 Handful of chives - Price ???
 - [ ] 1 tub of sour cream - Price ???
+  
