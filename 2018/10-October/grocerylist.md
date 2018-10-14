@@ -4,7 +4,7 @@ Breakfast:
 - [ ] Coffee (5lb bag) - Price $39.35 (2lb bag = $15.74 @ WalMart)
 - [ ] Eggs (96 eggs = 8 dozen) - Price $16.00
 - [ ] Apples (30 Apples) - Price $10.11 (10 apples = 3 lbs = $3.37 @ WalMart)
-- [ ] Lactose-free milk (3 half-gallon cartons) - Price ???
+- [ ] Lactose-free milk (3 half-gallon cartons) - Price $9.99 (for 3 x 0.5 gallons @ Costco)
 
 Lunch: 
 - [ ] 10 cups brown rice (approx. 2kg, or ~20% of sack of rice) - Price ???
@@ -15,6 +15,7 @@ Lunch:
 - [ ] 10 pints or ~3kg / 300 roma tomatoes - Price $6.00
 - [ ] 10 Jalapeño peppers - Price $1.50
 - [ ] 2.5 cups red onion (approx. 2 large onions) - Price $1.00
+- [ ] Ground turkey - Price $20.15 @ Costco
 
 Dinner: 
 - [ ] 20 tbsp vegetable oil (so ~ 0.3L, 1L container for around 3 months) - Price ???
